@@ -14,3 +14,5 @@ Steps involved in hypothesis testing
 4. Decide whether the null hypothesis is supported or refuted
 5. Present your findings.
 
+
+
