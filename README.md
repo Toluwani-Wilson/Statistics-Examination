@@ -1,3 +1,4 @@
+
 # Statistics-Examination
 ## Question 1
 1. The 500 registered voters are a sample
